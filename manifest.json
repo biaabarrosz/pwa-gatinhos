@@ -1,0 +1,16 @@
+{
+    "name": "Gatinhos aleatórios",
+    "short_name": "Gatinhos",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FAE360",
+    "theme_color": "#28a745",
+    "icons": [
+      {
+        "src": "iconGatinhoPWA192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
